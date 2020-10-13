@@ -1,14 +1,14 @@
 # Fideliza
 
-![](/Users/leo/Desktop/GETNET/fideliza/images/logo-fideliza-getnet.png)
+![](images/logo-fideliza-getnet.png)
 
 Uma solução integrada as maquininhas da Getnet para que os pequenos negócios consigam fidelizar seus clientes, sem sair da jornada que já estão acostumados junto a maquininha. O empreendedor conseguirá registrar clientes e depois promover campanhas promocionais de benefícios. O que aumentará a recorrência e fortalecimento da carteira de clientes, o que impacta diretamente seu faturamento, e ainda possibilita ter mais tempo para se dedicar aos seus produtos, serviços e a si, melhorando sua produtividade.
 
 O empreendedor pode usar a solução, além das máquinas POS DIGITAL da Getnet, no seu celular, via web ou ainda futuramente via assistente no WhatsApp.
 
-| ![](/Users/leo/Desktop/GETNET/fideliza/images/mini01.png) | ![](/Users/leo/Desktop/GETNET/fideliza/images/mini02.png) |
+| ![](images/mini01.png) | ![](images/mini02.png) |
 | --------------------------------------------------------- | --------------------------------------------------------- |
-| ![](/Users/leo/Desktop/GETNET/fideliza/images/mini03.png) | ![](/Users/leo/Desktop/GETNET/fideliza/images/mini04.png) |
+| ![](images/mini03.png) | ![](images/mini04.png) |
 
 ### 🔗 Links
 
@@ -18,13 +18,14 @@ O empreendedor pode usar a solução, além das máquinas POS DIGITAL da Getnet,
 - Protótipo: [Figma]([Figma](https://www.figma.com/proto/5DgVVpFgIACodRrhqOtjNX/GETNET?node-id=0%3A1))
 - Código: [Github](https://github.com/GETNET-Fideliza/fideliza)
 - Pitch: [PDF](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/9bb091c6-017f-4c94-a807-26e873534b88.pdf)
-- Miro:  [imagem](/Users/leo/Desktop/GETNET/fideliza/images/miro.png)
+- Miro:  [imagem](images/miro.png)
 
 ### 🔗 Links
 
 ## ⚙ Tecnologias
 
-- [React Native](https://reactjs.org/)
+- Front - [React Native](https://reactjs.org/)
+- Back-end - Kotlin
 
 ## ## 💪 Time
 
