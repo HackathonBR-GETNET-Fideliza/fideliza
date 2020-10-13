@@ -14,7 +14,7 @@ O empreendedor pode usar a solução, além das máquinas POS DIGITAL da Getnet,
 
 - Canal: [Fideliza - YouTube](https://www.youtube.com/channel/UCHwZAhE024bWT-EsHsqX_pw)
 - Video Pitch: [Youtube](https://youtu.be/XJq6T10gtzk)
-- Video navegação no app: [Video](https://youtu.be/I8jdwIxajNs)
+- Video navegação no app: [Video](https://www.youtube.com/watch?v=_P1ML0JrqRI&feature=youtu.be&ab_channel=EvertonFerreira)
 - Protótipo: [Figma](https://www.figma.com/proto/5DgVVpFgIACodRrhqOtjNX/GETNET?node-id=0%3A1)
 - Código: [Github](https://github.com/GETNET-Fideliza/fideliza)
 - Pitch: [PDF](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/9bb091c6-017f-4c94-a807-26e873534b88.pdf)
